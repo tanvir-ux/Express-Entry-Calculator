@@ -6,6 +6,13 @@
 
 ## Some screenshot and Google Play Store link is given below:
 
+# Features 
+### 1. Ionic Side Menu for 6 pages
+### 2. Ionic admobfree integration for both banner and interstitial ads
+### 3. In NOC pages real time search integration using angular custom pipe
+### 4. Implementing ionic cordova composemail for sending mail directly from the app contact page
+
+
 [Express Entry Calculator](https://play.google.com/store/apps/details?id=com.ionicframework.expressentrycalculator)
 
 ![icon](icon.png)
