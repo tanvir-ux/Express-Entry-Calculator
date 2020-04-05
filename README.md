@@ -1,6 +1,9 @@
 # Express Entry Calculator
 
-### This is my fully production app built with Angular 4, Ionic 3
+### This is my production app built with Angular and Ionic
+### It is completely free and will remain free forever worldwide
+### You can donate to support the project.
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T51KLQO) 
 
 #### I can't upload full source code of this project due to privacy
 
